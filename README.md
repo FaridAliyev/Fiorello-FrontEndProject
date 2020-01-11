@@ -1,3 +1,3 @@
 # Shopping-Site
 
-Flower Shopping Site with Local Storage more stuff
+Flower Shopping Site with Local Storage and more stuff
