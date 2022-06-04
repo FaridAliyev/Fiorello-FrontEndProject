@@ -3,4 +3,4 @@
 Flower Shopping website with Local Storage and more stuff
 
 
-Link: https://faridaliyev.github.io/Shopping-Website-FrontEnd-Project/Front-End%20Project/main.html
+Link: https://faridaliyev.github.io/Fiorello-FrontEndProject/Front-End%20Project/main.html
